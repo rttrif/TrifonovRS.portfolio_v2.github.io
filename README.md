@@ -13,11 +13,20 @@ The portfolio presents projects carried out in the process of mastering and deve
 ---
 ## Section 2: Supervised learning
 
----
-## Section 3: Unsupervised Learning
+### Classification
+
+### Regression
 
 ---
 ## Section 3: Unsupervised Learning
+
+### Clustering
+
+### Dimensionality reduction
+
+### Anomaly detection
+---
+## Section 4: Reinforcement Learning
 
 ---
 ## Section 5: Deep Learning
