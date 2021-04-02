@@ -28,11 +28,11 @@ The portfolio presents projects carried out in the process of mastering and deve
 ---
 # Section 3: Unsupervised Learning
 
-### Clustering
+## Clustering
 
-### Dimensionality reduction
+## Dimensionality reduction
 
-### Anomaly detection
+## Anomaly detection
 ---
 ## Section 4: Reinforcement Learning
 
