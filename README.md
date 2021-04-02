@@ -4,9 +4,9 @@
 The portfolio presents projects carried out in the process of mastering and developing the basic skills of preparing and analyzing data, building and deploying machine and deep learning models.
 
 ---
-## Section 1: Data Preprocessing 
+# Section 1: Data Preprocessing 
 
-### Data Wrangling
+## Data Wrangling
 
 ### Exploratory Data Analysis
 
