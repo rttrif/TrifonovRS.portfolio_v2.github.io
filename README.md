@@ -6,6 +6,10 @@ The portfolio presents projects carried out in the process of mastering and deve
 ---
 ## Section 1: Data Preprocessing 
 
+### Data Wrangling
+
+### Exploratory Data Analysis
+
 ---
 ## Section 2: Supervised learning
 
