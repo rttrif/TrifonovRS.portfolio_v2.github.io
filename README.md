@@ -14,6 +14,8 @@ The portfolio presents projects carried out in the process of mastering and deve
 
 ### Text data 
 
+### SQL
+
 ## Exploratory Data Analysis
 
 ---
@@ -37,8 +39,20 @@ The portfolio presents projects carried out in the process of mastering and deve
 ---
 ## Section 5: Deep Learning
 
+### Artificial neural network
+
+### Convolutional neural network
+
+### Recurrent neural network
+
 ---
 ## Section 6: Deployment 
+
+### REST API
+
+### Docker
+
+ ### Kubernetis 
 
 ---
 #### Previous portfolio version.
