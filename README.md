@@ -8,7 +8,13 @@ The portfolio presents projects carried out in the process of mastering and deve
 
 ## Data Wrangling
 
-### Exploratory Data Analysis
+### Tabular data
+
+### Image data 
+
+### Text data 
+
+## Exploratory Data Analysis
 
 ---
 ## Section 2: Supervised learning
