@@ -19,14 +19,14 @@ The portfolio presents projects carried out in the process of mastering and deve
 ## Exploratory Data Analysis
 
 ---
-## Section 2: Supervised learning
+# Section 2: Supervised learning
 
-### Classification
+## Classification
 
-### Regression
+## Regression
 
 ---
-## Section 3: Unsupervised Learning
+# Section 3: Unsupervised Learning
 
 ### Clustering
 
@@ -37,22 +37,22 @@ The portfolio presents projects carried out in the process of mastering and deve
 ## Section 4: Reinforcement Learning
 
 ---
-## Section 5: Deep Learning
+# Section 5: Deep Learning
 
-### Artificial neural network
+## Artificial neural network
 
-### Convolutional neural network
+## Convolutional neural network
 
-### Recurrent neural network
+## Recurrent neural network
 
 ---
-## Section 6: Deployment 
+# Section 6: Deployment 
 
-### REST API
+## REST API
 
-### Docker
+## Docker
 
- ### Kubernetis 
+## Kubernetis 
 
 ---
 #### Previous portfolio version.
